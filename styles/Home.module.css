@@ -1,8 +1,4 @@
 /* debug-twcss/styles/global.css */
-@tailwind base;
-@tailwind utilities;
-@tailwind components;
-
 .container {
   padding: 0 2rem;
 }
